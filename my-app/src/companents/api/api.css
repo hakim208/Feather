@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.cart {
+    box-shadow: 5px 5px 5px#CBC6F4;
+    width: 245px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding-bottom: 20px;
+    margin-top: 40px;
+}
+
+.text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.box-Cart {
+    display: flex;
+    gap: 100px;
+}
+
+.Cart {
+    width: 90%;
+    margin: auto;
+}
+.img{
+    width: 245px;
+}
+.btn-All{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
