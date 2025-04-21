@@ -10,6 +10,7 @@
     padding-top: 30px;
     justify-content: space-between;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1200px;
 }
 .box-Text{
     display: flex;

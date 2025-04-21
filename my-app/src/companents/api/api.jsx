@@ -22,7 +22,7 @@ const Api = ({ img, text }) => {
 
     const [addModal, setAddModal] = useState(false)
     const [addName, setAddname] = useState("")
-    const [addImg, setaddImg] = useState("")
+    const [addImg, setaddImg] = useState(img)
     const [addStatus, setAddStatus] = useState(false)
 
     const [EditModal, setEditModal] = useState(false)
